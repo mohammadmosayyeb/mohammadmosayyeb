@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mohammadmosayyeb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mohammadmosayyeb/mohammadmosayyeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# hello i am [mohammad mosayyebnezhad](mosayyebnezhad.ir)
+> Front-end developer
+> a little back-end developer
+- i codin in back with C# and ASP.net core virsion five
+#### my planes for make a good developer is this :
+-front-edn
+  - [] html
+  - [] css
+  - [] js
