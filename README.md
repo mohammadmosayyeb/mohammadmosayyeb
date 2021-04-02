@@ -1,7 +1,7 @@
 # hello i am [mohammad mosayyebnezhad](https://mosayyebnezhad.ir/)
 - Front-end developer a little back-end developer
 > i codin in back with C# and ASP.net core virsion five
-#### my planes for make a good developer is this :
+#### my plans for make a good developer is this :
 - front-end
   - HTMl
   - CSS
